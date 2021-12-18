@@ -1,0 +1,146 @@
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\appsettings.Development.json
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\appsettings.json
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.exe
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.deps.json
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.runtimeconfig.json
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.runtimeconfig.dev.json
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ref\ToDoListAsp.NetCore.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.pdb
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.Views.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.Views.pdb
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Humanizer.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.csproj.AssemblyReference.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.AssemblyInfoInputs.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.AssemblyInfo.cs
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.csproj.CoreCompileInputs.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.MvcApplicationPartsAssemblyInfo.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.RazorAssemblyInfo.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.RazorAssemblyInfo.cs
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\staticwebassets\ToDoListAsp.NetCore.StaticWebAssets.Manifest.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\staticwebassets\ToDoListAsp.NetCore.StaticWebAssets.xml
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\scopedcss\bundle\ToDoListAsp.NetCore.styles.css
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.TagHelpers.input.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.TagHelpers.output.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.RazorCoreGenerate.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.RazorTargetAssemblyInfo.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.RazorTargetAssemblyInfo.cs
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.Views.pdb
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.csproj.CopyComplete
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ref\ToDoListAsp.NetCore.dll
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.pdb
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.genruntimeconfig.cache
+E:\Web API ASP.NETCORE\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\ToDo\Index.cshtml.g.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ref\ToDoListAsp.NetCore.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.pdb
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\appsettings.Development.json
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\appsettings.json
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.exe
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.deps.json
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.runtimeconfig.json
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.runtimeconfig.dev.json
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ref\ToDoListAsp.NetCore.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.pdb
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.Views.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\ToDoListAsp.NetCore.Views.pdb
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Humanizer.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.csproj.AssemblyReference.cache
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.AssemblyInfoInputs.cache
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.AssemblyInfo.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.csproj.CoreCompileInputs.cache
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.RazorAssemblyInfo.cache
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.RazorAssemblyInfo.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\staticwebassets\ToDoListAsp.NetCore.StaticWebAssets.Manifest.cache
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\staticwebassets\ToDoListAsp.NetCore.StaticWebAssets.xml
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\scopedcss\bundle\ToDoListAsp.NetCore.styles.css
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.TagHelpers.input.cache
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.TagHelpers.output.cache
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.RazorCoreGenerate.cache
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\ToDo\Index.cshtml.g.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.RazorTargetAssemblyInfo.cache
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.RazorTargetAssemblyInfo.cs
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.Views.pdb
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.csproj.CopyComplete
+E:\WorkingProjects\ToDoListAsp.NetCore (1)\ToDoListAsp.NetCore\ToDoListAsp.NetCore\obj\Debug\net5.0\ToDoListAsp.NetCore.genruntimeconfig.cache
